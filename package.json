@@ -14,6 +14,7 @@
     "url": "git://github.com/goldfire/pokersolver.git"
   },
   "main": "pokersolver.js",
+  "typings": "pokersolver.d.ts",
   "version": "2.1.2",
   "license": {
     "type": "MIT",
